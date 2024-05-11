@@ -11,8 +11,9 @@ This game follows simple VR interactions
 - To grip: use the grip buttons on either controller
 - To walk: use the **left** joystick
 - To turn without turning your body, use the **right** joystick
+- To leave experience, press the Oculus "O" symbol and quit
 
 Issues and errors:
-- Minor issue: Some choppiness when turning using the **right** joystick may happen. 
+- Minor issue: Some choppiness when picking up an object
 
 ##
