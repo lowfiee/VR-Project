@@ -1,4 +1,4 @@
-##***VR-Project***
+## ***VR-Project***
 # VR project - Store 
 
 Created by Conner Marks, Jacob Mahe, Sasha Koroleva, Farzana Tanni 
