@@ -14,7 +14,7 @@ This game follows simple VR interactions:
 - To turn without turning your body, use the **right** joystick
 - To leave experience, press the Oculus "O" symbol and quit
 
-How to play:
+### How to play:
 1) Grab an object (Shark or calculator)
 2) Add items to basket if you'd like
 3) Swipe the item in the scanner on the right side of the self-checkout
